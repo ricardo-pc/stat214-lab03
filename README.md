@@ -1,7 +1,8 @@
 # stat214-lab03
 
-Follow the structure below:
+## Folder Structure
 
+\```
 lab3/
 ├── code/
 │   ├── run.sh                        # master script, run everything in order - ONE PERSON SHOULD OWN THIS
@@ -71,3 +72,5 @@ lab3/
 │
 └── other/
     └── (scratch notebooks, exploratory work)
+
+\```
