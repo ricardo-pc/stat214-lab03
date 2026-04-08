@@ -1,0 +1,30 @@
+# LaTeX artifacts
+*.log
+*.aux
+*.bbl
+*.out
+
+# Editor/IDE
+.idea
+.vscode
+
+# OS
+.DS_Store
+
+# Python
+__pycache__
+.ipynb_checkpoints
+*.pyc
+
+# Conda
+.conda
+
+# Data (too large for GitHub)
+data/
+
+# Intermediate numpy/pickle outputs
+*.npz
+*.npy
+
+# Other
+.claude
